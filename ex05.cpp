@@ -13,6 +13,7 @@ int main(){
         }
         printf("\n");
     } 
+    free(matriz);
     getchar();
     return 0;
 }
